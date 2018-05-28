@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\partical">
+      <UniqueIdentifier>{57a0301a-2ebe-48a0-8233-397257ae7aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\system">
+      <UniqueIdentifier>{38cb6aa7-3a92-4333-ad35-94b254cff29e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gameObj3D">
+      <UniqueIdentifier>{aafbc34f-ed1e-4622-b5f0-fa0a4f8f5260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{ff1171ed-8fd4-4d1c-bb49-0bbaa54781fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\scene">
+      <UniqueIdentifier>{68fccd47-e4b5-4a15-bb56-3c50b4943d03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\scene\title">
+      <UniqueIdentifier>{1fa2bad1-c4c9-4dde-890a-36f339ef41ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\scene\tutorial">
+      <UniqueIdentifier>{d837e4af-b85f-4f10-81c0-98d317e33bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\scene\result">
+      <UniqueIdentifier>{7d32b9f7-20fe-46e1-957a-a591670e3e35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\scene\game">
+      <UniqueIdentifier>{c820fbc4-9664-47c5-a4f5-fed165e455b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SourceFile\bullet.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\camera.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\EnemyBall.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\explosion.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\light.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\MeshField.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\model.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\model_aircraft.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\shadow.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\skydome.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\sound.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\TpsCamera.cpp">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CPartical.cpp">
+      <Filter>Source Files\partical</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CParticalSetting.cpp">
+      <Filter>Source Files\partical</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\particalManager.cpp">
+      <Filter>Source Files\partical</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CScene3D.cpp">
+      <Filter>Source Files\scene\game</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\result.cpp">
+      <Filter>Source Files\scene\result</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\titleManager.cpp">
+      <Filter>Source Files\scene\title</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\tutorial.cpp">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CGrenade.cpp">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CGrenadeTrack.cpp">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\obj2d.cpp">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\obj3d.cpp">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\obj3dBillboard.cpp">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\hitcheckMesh.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\hitCircle.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\hitCircleMesh.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\hitRectangle .cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\input.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\inputMouse.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\matrix.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\motion.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\textureManager.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\tpsAim.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\vector.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\wave.cpp">
+      <Filter>Source Files\system</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CGameUI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CNumber.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\CScore.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\fade.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFile\polygon.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SourceFile\bullet.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\camera.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\EnemyBall.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\explosion.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\light.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\MeshField.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\model.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\model_aircraft.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\shadow.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\skydome.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\sound.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\TpsCamera.h">
+      <Filter>Source Files\gameObj3D</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CPartical.h">
+      <Filter>Source Files\partical</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CParticalSetting.h">
+      <Filter>Source Files\partical</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\particalManager.h">
+      <Filter>Source Files\partical</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CScene3D.h">
+      <Filter>Source Files\scene\game</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\result.h">
+      <Filter>Source Files\scene\result</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\titleManager.h">
+      <Filter>Source Files\scene\title</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\tutorial.h">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CGrenade.h">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CGrenadeTrack.h">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\obj2d.h">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\obj3d.h">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\obj3dBillboard.h">
+      <Filter>Source Files\scene\tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\hitcheckMesh.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\hitCircle.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\hitCircleMesh.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\hitRectangle .h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\input.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\inputMouse.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\matrix.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\motion.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\textureManager.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\tpsAim.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\vector.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\wave.h">
+      <Filter>Source Files\system</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CGameUI.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CNumber.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\CScore.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\fade.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFile\polygon.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

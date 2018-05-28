@@ -1,0 +1,311 @@
+﻿  wave.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  vector.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\vector.cpp(13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\vector.cpp(25): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\vector.cpp(34): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\vector.cpp(65): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\vector.cpp(74): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  tutorial.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TpsCamera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(95): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(96): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(97): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(113): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(121): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(169): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(170): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(171): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(204): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(209): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(214): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(219): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(224): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(229): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(258): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(263): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(268): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(273): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(278): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpscamera.cpp(283): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+  tpsAim.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpsaim.cpp(40): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpsaim.cpp(77): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpsaim.cpp(78): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpsaim.cpp(83): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\tpsaim.cpp(84): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  titleManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\titlemanager.cpp(70): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  textureManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  sound.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  skydome.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\skydome.cpp(172): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\skydome.cpp(173): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\skydome.cpp(174): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  shadow.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\shadow.cpp(116): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\shadow.cpp(138): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\shadow.cpp(139): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\shadow.cpp(140): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\shadow.cpp(141): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  result.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  polygon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  particalManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  obj3dBillboard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj3dbillboard.cpp(71): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj3dbillboard.cpp(72): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj3dbillboard.cpp(73): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj3dbillboard.cpp(74): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  obj3d.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj3d.cpp(85): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  obj2d.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(233): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(234): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(235): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(236): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(246): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(247): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(248): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\obj2d.cpp(249): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  motion.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\motion.cpp(52): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\motion.cpp(155): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  model_aircraft.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(33): warning C4005: 'GRENADE_MAX': マクロが再定義されました。
+  c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgrenade.h(7): note: 'GRENADE_MAX' の以前の定義を確認してください
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(194): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(202): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(208): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(231): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(237): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(256): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(263): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(270): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(277): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(297): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(298): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(302): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(303): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(482): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(483): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(484): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(492): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(541): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(547): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(582): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\model_aircraft.cpp(591): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  model.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  MeshField.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\meshfield.cpp(301): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\meshfield.cpp(303): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\meshfield.cpp(306): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\meshfield.cpp(321): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\meshfield.cpp(324): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\motion.cpp(166): warning C4715: 'CPart::ModelChange': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  matrix.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(237): warning C4101: 'ps': ローカル変数は 1 度も使われていません。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(236): warning C4101: 'hDC': ローカル変数は 1 度も使われていません。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(239): warning C4101: 'temp': ローカル変数は 1 度も使われていません。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(556): warning C4474: 'sprintf': 書式文字列に渡された引数の数が多すぎます
+  c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(556): note: プレースホルダーとそのパラメーターには 5 の可変個引数が必要ですが、6 が指定されています。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(653): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(654): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(714): warning C4244: '=': 'LONG' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(720): warning C4927: 変換が正しくありません。複数のユーザー定義の変換が暗黙的に適用されています。
+  c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\main.cpp(720): note: コンストラクター 'D3DXVECTOR3::D3DXVECTOR3(const FLOAT *)' を呼び出しているとき
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx9math.inl(270): note: 'D3DXVECTOR3::D3DXVECTOR3' の宣言を確認してください
+  light.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  inputMouse.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  input.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  hitRectangle .cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitrectangle .cpp(205): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitrectangle .cpp(206): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  hitCircleMesh.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(59): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(60): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(65): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(66): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(73): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(126): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(128): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(181): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(182): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(187): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(188): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(269): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(294): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(296): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(400): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(401): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(406): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(407): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(414): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(467): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(469): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(522): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(523): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(528): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(529): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(614): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(615): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(617): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(675): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcirclemesh.cpp(676): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  hitCircle.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcircle.cpp(163): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcircle.cpp(164): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcircle.cpp(165): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  hitcheckMesh.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(36): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(288): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(307): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(308): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(313): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(314): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(321): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(257): warning C4101: 'WallMoveSpeed': ローカル変数は 1 度も使われていません。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(399): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(418): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(419): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(424): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(425): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(432): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(531): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(551): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(552): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(557): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\hitcheckmesh.cpp(558): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  fade.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\fade.cpp(75): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  explosion.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\explosion.cpp(113): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\explosion.cpp(114): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\explosion.cpp(121): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\explosion.cpp(122): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\explosion.cpp(123): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  EnemyBall.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\enemyball.cpp(68): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  CScore.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscore.cpp(40): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscore.cpp(62): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  CScene3D.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(91): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(179): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(211): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(271): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(359): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(391): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(443): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(448): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(453): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(458): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(463): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cscene3d.cpp(468): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  CParticalSetting.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(69): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(104): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(106): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(108): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(111): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(112): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cparticalsetting.cpp(113): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CPartical.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CNumber.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cnumber.cpp(154): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cnumber.cpp(155): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cnumber.cpp(156): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cnumber.cpp(157): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  CGrenadeTrack.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgrenadetrack.cpp(102): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CGrenade.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgrenade.cpp(59): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgrenade.cpp(60): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgrenade.cpp(69): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  CGameUI.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(54): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(61): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(70): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(124): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(134): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(138): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(148): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(152): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(168): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(298): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\cgameui.cpp(303): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  コンパイル中...
+  camera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(57): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(58): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(59): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(60): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(65): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(66): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(67): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(68): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(73): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(74): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(75): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(76): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(81): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(82): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(83): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(84): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(91): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(92): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\camera.cpp(93): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  bullet.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\bullet.cpp(283): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\bullet.cpp(368): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\bullet.cpp(369): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\bullet.cpp(370): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\bullet.cpp(371): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\weiqi\documents\secondyearworks\shootzombie\project\sourcefile\bullet.cpp(396): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  SHOWMESH.vcxproj -> C:\Users\weiqi\Documents\SecondYearWorks\ShootZombie\project\\SHOWMESH_Debug.exe
+  SHOWMESH.vcxproj -> C:\Users\weiqi\Documents\SecondYearWorks\ShootZombie\project\\SHOWMESH_Debug.pdb (Full PDB)

@@ -1,0 +1,5 @@
+data/GAMEOBJ/XFILE/
+data/GAMEOBJ/TEX/
+メタセコイア建物比率:0.3
+
+高速道路方向Z軸

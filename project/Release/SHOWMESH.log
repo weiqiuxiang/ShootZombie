@@ -1,0 +1,65 @@
+﻿  hitCircle.cpp
+  F:\DXSDK\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+hitCircle.cpp(163): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircle.cpp(164): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircle.cpp(165): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  hitCircleMesh.cpp
+  F:\DXSDK\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+hitCircleMesh.cpp(59): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(60): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(65): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(66): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(73): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(126): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(128): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(181): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(182): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(187): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(188): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(269): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(294): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(296): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(400): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(401): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(406): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(407): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(414): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(467): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(469): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(522): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(523): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(528): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(529): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(614): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(615): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(617): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(675): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitCircleMesh.cpp(676): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  hitRectangle .cpp
+  F:\DXSDK\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+hitRectangle .cpp(205): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+hitRectangle .cpp(206): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  main.cpp
+  F:\DXSDK\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+main.cpp(237): warning C4101: 'ps': ローカル変数は 1 度も使われていません。
+main.cpp(236): warning C4101: 'hDC': ローカル変数は 1 度も使われていません。
+main.cpp(239): warning C4101: 'temp': ローカル変数は 1 度も使われていません。
+main.cpp(556): warning C4474: 'sprintf': 書式文字列に渡された引数の数が多すぎます
+  main.cpp(556): note: プレースホルダーとそのパラメーターには 5 の可変個引数が必要ですが、6 が指定されています。
+main.cpp(653): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+main.cpp(654): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+main.cpp(714): warning C4244: '=': 'LONG' から 'FLOAT' への変換です。データが失われる可能性があります。
+main.cpp(720): warning C4927: 変換が正しくありません。複数のユーザー定義の変換が暗黙的に適用されています。
+  main.cpp(720): note: コンストラクター 'D3DXVECTOR3::D3DXVECTOR3(const FLOAT *)' を呼び出しているとき
+  f:\dxsdk\include\d3dx9math.inl(270): note: 'D3DXVECTOR3::D3DXVECTOR3' の宣言を確認してください
+  motion.cpp
+  F:\DXSDK\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+motion.cpp(52): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+motion.cpp(155): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コード生成しています。
+  0 of 396 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  SHOWMESH.vcxproj -> C:\Users\i.shushou\Documents\DX21\MEF_3DGAME_MASTER\\SHOWMESH_Release.exe
+  SHOWMESH.vcxproj -> C:\Users\i.shushou\Documents\DX21\MEF_3DGAME_MASTER\\SHOWMESH_Release.pdb (Full PDB)
